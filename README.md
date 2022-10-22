@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sagarpalmi
-- 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning python
+- 👀 I’m learning concepts of App Development
+
